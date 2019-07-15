@@ -1,6 +1,6 @@
 # Deep_Learning_PUC
 
-Here i uploaded my homerowk and projects from IIC3697 Deep Learning course, at PUC, taught by professor Álvaro Soto.
+Here i uploaded my homework and projects from IIC3697 Deep Learning course, at PUC, taught by professor Álvaro Soto.
 
 Here we worked with Keras, Tensorflow and Pytorch (mainly).
 
